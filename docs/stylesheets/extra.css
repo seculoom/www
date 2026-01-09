@@ -1,20 +1,9 @@
-/* === Kill ToC everywhere (Material) === */
-
-/* 右サイドバー(ページ内ToC)を消す */
-.md-sidebar--secondary {
-  display: none !important;
-  visibility: hidden !important;
-  width: 0 !important;
+/* 本文幅を少し狭める */
+.md-grid {
+  max-width: 800px; /* 800〜1000pxくらいで好み調整 */
 }
 
-/* toc.integrate 等で左に統合される ToC も消す */
-.md-nav--secondary,
-.md-sidebar--primary .md-nav--secondary,
-label.md-nav__title[for="__toc"] {
-  display: none !important;
-}
-
-/* 余白調整（右が消えた分） */
-.md-content {
-  max-width: 100% !important;
+/* 文章の読みやすさ */
+.md-typeset {
+  line-height: 1.75;
 }

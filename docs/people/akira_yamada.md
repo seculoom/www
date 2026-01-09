@@ -5,9 +5,13 @@ hide:
   - footer
 ---
 
-Professor<br>
-University of Hyogo<br>
+Professor  
+University of Hyogo  
 Graduate School of Information Science
+
+## Publications
+
+[Papers](../publications.md)
 
 ## Links
 
