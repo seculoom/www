@@ -1,0 +1,20 @@
+/* === Kill ToC everywhere (Material) === */
+
+/* 右サイドバー(ページ内ToC)を消す */
+.md-sidebar--secondary {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+}
+
+/* toc.integrate 等で左に統合される ToC も消す */
+.md-nav--secondary,
+.md-sidebar--primary .md-nav--secondary,
+label.md-nav__title[for="__toc"] {
+  display: none !important;
+}
+
+/* 余白調整（右が消えた分） */
+.md-content {
+  max-width: 100% !important;
+}
