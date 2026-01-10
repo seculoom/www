@@ -16,10 +16,13 @@ theme:
   font: false
   extra:
     homepage: https://www.intrusion-detection.org
+extra_css:
+  - stylesheets/extra.css    
 copyright: Copyright &copy; 2025 - 2026 Security and Privacy Laboratory & Akira Yamada. All rights reserved.
-#    analytics:
-#      provider: google
-#      property: G-XXXXXXXXXX
+extra:
+  analytics:
+    provider: google
+    property: G-H15GG1H14V
 nav:
   - Home: index.md
   - People: people.md
