@@ -1,9 +1,11 @@
 ---
 hide:
-  - navigation
-  - toc
-  - footer
+    - navigation
+    - toc
+    - footer
 ---
+
+# Home
 
 ## 研究室紹介
 

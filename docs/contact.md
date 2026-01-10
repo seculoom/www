@@ -1,9 +1,11 @@
 ---
 hide:
-  - navigation
-  - toc
-  - footer
+    - navigation
+    - toc
+    - footer
 ---
+
+# Contact
 
 ## 所在地
 

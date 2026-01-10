@@ -1,6 +1,9 @@
 ---
 hide:
-  - navigation
-  - toc
-  - footer
+    - navigation
+    - toc
+    - footer
 ---
+
+# Publications
+

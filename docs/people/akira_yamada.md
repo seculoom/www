@@ -5,6 +5,10 @@ hide:
   - footer
 ---
 
+# Akira Yamada
+
+## Affiliation
+
 Professor  
 University of Hyogo  
 Graduate School of Information Science
