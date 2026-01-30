@@ -24,6 +24,7 @@ Graduate School of Information Science
 - [Google Scholar](https://scholar.google.com/citations?user=ecbdd8wAAAAJ)
 - [Researchmap](https://researchmap.jp/akryamada)
 - [ResearchGate](https://www.researchgate.net/profile/Akira-Yamada-14)
+- [DBLP](https://dblp.org/pid/22/3273-1.html)
 
 ## Memberships
 
