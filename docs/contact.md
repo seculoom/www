@@ -27,3 +27,5 @@ hide:
 
 ## 問合せ
 
+[お問い合わせフォーム](https://forms.gle/xSAgV48b8VLWNNiz7)
+

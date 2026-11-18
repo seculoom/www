@@ -5,8 +5,8 @@
 
 ```bash
 uv venv --python 3.11
-source venv/bin/activate
-pip install -r requirements.txt
+source .venv/bin/activate
+uv pip install -r requirements.txt
 ```
 
 ## mkdocs commands
@@ -68,7 +68,7 @@ jobs:
       - name: Build
         run: |
           # 例:
-          # pip install mkdocs
+          # uv pip install mkdocs
           # mkdocs build
           echo "build step"
       - name: Upload artifact
