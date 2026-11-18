@@ -30,7 +30,7 @@ Graduate School of Information Science
 
 - Information Processing Society of Japan (IPSJ)
   - Computer Security (CSEC)
-    - Privacy Workship (PWS)
+    - Privacy Workshop (PWS)
 - Institute of Electronics, Information and Communication Engineers (IEICE)
   - Information and Communication System Security (ICSS)
 - IEEE
